@@ -68,4 +68,3 @@ Docker,adopt,tools,false,"OS-level virtualization for running software in packag
 Undertow,assess,tools,false,"Undertow is an extremely lightweight and high-performance web server from JBoss. It supports both blocking and non-blocking APIs with NIO."
 OWASP Dependency-Check,adopt,tools,false,"Tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies."
 Jaeger,adopt,tools,false,"Monitor and troubleshoot transactions in complex distributed systems."
-
