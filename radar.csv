@@ -36,3 +36,4 @@ ZooKeeper,assess,tools,false,"open-source server which enables highly reliable d
 ActiveMQ,adopt,tools,false,"Open source, multi-protocol, Java-based messaging server"
 AWS Services,assess,platforms,false,"AWS Cloud Computing Services"
 Micro Frontends,adopt,techniques,false,"Micro Frontends"
+nx.dev,assess,tools,true,Extensible Dev Tools for Monorepos
